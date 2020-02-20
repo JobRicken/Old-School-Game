@@ -11,5 +11,8 @@
     "url": "https://github.com/JobRicken/Old-School-Game.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.6"
+  }
 }
